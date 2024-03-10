@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/*
+*.xcodeproj/*
+*.make
+FirstMySketch.code-workspace
+Makefile
+of.*
+*.plist
+*.xcconfig
